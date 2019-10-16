@@ -1,4 +1,4 @@
-package cn.xinzhi;
+package cm.xinzhi;
 
 public class Preson {
     private int id;
